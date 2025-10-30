@@ -1,11 +1,19 @@
+# 🏅 AI Sports Talent Assessment App
 
-  # AI Sports Talent Assessment App
+🚧 **Project Status:** Work in Progress  
+This project is currently under active development. Some components and integrations are being improved and expanded.
 
-  This is a code bundle for AI Sports Talent Assessment App. The original project is available at https://www.figma.com/design/NECnfHt7r6ENyICpzv1RyE/AI-Sports-Talent-Assessment-App.
+---
 
-  ## Running the code
+## 🧠 Overview
+The **AI Sports Talent Assessment App** is a web-based platform designed to analyze athlete performance using Artificial Intelligence.  
+It combines computer vision, motion analysis, and data-driven insights to help athletes and officials evaluate performance and identify areas for improvement.
 
-  Run `npm i` to install the dependencies.
+---
 
-  Run `npm run dev` to start the development server.
-  
+## ⚙️ Running the Code
+
+### 1️⃣ Install Dependencies
+```bash
+npm install
+npm run dev
