@@ -1,0 +1,39 @@
+# 📰 Fake or Real News Detection
+
+## 🧩 Key Steps
+1. **Importing & Exploring Data:**  
+   Loading the dataset, handling missing values, and analyzing class distribution.
+
+2. **Text Preprocessing:**  
+   Tokenization, stopword removal, stemming/lemmatization, and text normalization.
+
+3. **Feature Extraction:**  
+   Using **TF-IDF Vectorization** to convert text into numerical features.
+
+4. **Model Training & Evaluation:**  
+   Training ML models like:
+   - Logistic Regression  
+   - Naive Bayes  
+   - Random Forest  
+   and evaluating them using accuracy, precision, recall, and F1-score.
+
+5. **Visualization:**  
+   Plotting confusion matrices and performance metrics for insights.
+
+---
+
+## ⚙️ Technologies Used
+- **Language:** Python  
+- **Libraries:**  
+  - Pandas, NumPy  
+  - Scikit-learn  
+  - NLTK / SpaCy  
+  - Matplotlib / Seaborn  
+- **Environment:** Jupyter Notebook  
+
+---
+
+## 📈 Expected Results
+- Classification report and accuracy score  
+- Confusion matrix visualization  
+- Example predictions showing whether the news is *Fake* or *Real*  
